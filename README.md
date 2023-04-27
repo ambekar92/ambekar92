@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santhosh Ambekar
 - 👀 I’m interested in Web Development Backend and Frontend
-- 🌱 I’m currently learning Redux-Saga, NextJS and Other New Technologies
+- 🌱 I’m currently working on React, Redux, Redux-Saga, Angular, NodeJS, NextJS, HTML5, CSS3, Charts D3, Highcharts and Other New Technologies
 - 📫 How to reach me - santhoshkcse4@gmail.com
 
 <!---
